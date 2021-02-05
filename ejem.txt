@@ -1,5 +1,5 @@
-línea1
 Línea 2 modificada en estruc
+Eliminamos una línea
 
 Rama 1 Test
 
