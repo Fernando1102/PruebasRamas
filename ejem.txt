@@ -1,4 +1,5 @@
 línea1
+Línea 2 modificada en estruc
 
 Rama 1 Test
 
